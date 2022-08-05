@@ -3,7 +3,7 @@ This mod will allow you to play DLC maps that have not been released on PC versi
 Please be aware that this while this mod works, you can still encounter quite a few untextured models and crashes (mostly in escalation)
 
 
-Install the DLC map files from [here](https://drive.google.com/file/d/1JtAgk5OmEQq71TiAyuiwNvanqXpxzMKq/view?usp=sharing) or [MEGA mirror](https://mega.nz/file/klVEGBDS#mAKAy05AohGmkTWjUG-egK_-_hgJEO__L2_wIVaaHNc) to the main root folder of the game (Next to Binaries and TransGame folder)
+Install the DLC map files from [here](https://drive.google.com/file/d/1nqlkxXJ50riieCMa9yad_K_-hbp2gCiv/view?usp=sharing) or [MEGA mirror](https://mega.nz/file/4sUzHLIS#TcCOlKptXSwNMQsspLNLJNQtGddTHc3sJjSHzONbkGg) to the main root folder of the game (Next to Binaries and TransGame folder)
 
 Currently available maps on release:
 Multiplayer:
