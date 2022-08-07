@@ -13,9 +13,9 @@ Multiplayer:
 - Sector = 100% textured
 
 Escalation:
-- Forsaken = That's a tough one. Currently, it has broken light maps issue + the map uses custom terrain texture which is unfixable (This texture covers most of the map)
-- District = 99% textured, occasional light map issue and missing energon hologram texture. Acid Trip when power goes off
-- Static = 90% textured, a few lightmap issues in the middle section and missing teleporter texture (custom)
+- Forsaken = The map uses custom terrain texture which is unfixable (This texture covers most of the map)
+- District = 99% textured, missing energon hologram texture. Acid Trip when power goes off
+- Static = 90% textured, Missing teleporters texture and a few energon holograms (custom)
 
 
 Horizon & Pulse will come in a future update to the mod.
