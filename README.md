@@ -5,6 +5,8 @@ Please be aware that this while this mod works, you can still encounter quite a 
 
 Install the DLC map files from [here](https://drive.google.com/file/d/1nqlkxXJ50riieCMa9yad_K_-hbp2gCiv/view?usp=sharing) or [MEGA mirror](https://mega.nz/file/4sUzHLIS#TcCOlKptXSwNMQsspLNLJNQtGddTHc3sJjSHzONbkGg) to the main root folder of the game (Next to Binaries and TransGame folder)
 
+Video guide on how to install this mod can be found [here](https://www.youtube.com/watch?v=x4htr8eVzZE)
+
 Currently available maps on release:
 Multiplayer:
 - Fortress = 75% textured (Missing a lot of wall textures mostly on the autobot spawn side)
