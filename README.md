@@ -8,9 +8,9 @@ Install the DLC map files from [here](https://drive.google.com/file/d/1nqlkxXJ50
 Currently available maps on release:
 Multiplayer:
 - Fortress = 75% textured (Missing a lot of wall textures mostly on the autobot spawn side)
-- Havoc 95% textured, however with extreme lightmaps issues
-- Metropolis = 90% textured, a few missing floor textures and lightmap issues
-- Sector = 95% textured, few lightmap issues
+- Havoc 95% textured
+- Metropolis = 90% textured, a few missing floor textures
+- Sector = 100% textured
 
 Escalation:
 - Forsaken = That's a tough one. Currently, it has broken light maps issue + the map uses custom terrain texture which is unfixable (This texture covers most of the map)
