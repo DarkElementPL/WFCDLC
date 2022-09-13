@@ -3,15 +3,15 @@ This mod will allow you to play DLC maps that have not been released on PC versi
 Please be aware that this while this mod works, you can still encounter quite a few untextured models and crashes (mostly in escalation)
 
 
-Install the DLC map files from [here](https://drive.google.com/file/d/1nqlkxXJ50riieCMa9yad_K_-hbp2gCiv/view?usp=sharing) or [MEGA mirror](https://mega.nz/file/4sUzHLIS#TcCOlKptXSwNMQsspLNLJNQtGddTHc3sJjSHzONbkGg) to the main root folder of the game (Next to Binaries and TransGame folder)
+Install the DLC map files from [here](https://drive.google.com/file/d/1EIaTs4O_hbGNP4IOV0j2wYL3mM3xRMFh/view?usp=sharing) or [MEGA mirror](https://mega.nz/file/4sNH1bzC#h-952O0iLgEzyxhRyvCZ-Uct_9lpAwD9S_Eq04afwYw) to the main root folder of the game (Next to Binaries and TransGame folder)
 
 Video guide on how to install this mod can be found [here](https://www.youtube.com/watch?v=x4htr8eVzZE)
 
-Currently available maps on release:
+Currently available maps:
 Multiplayer:
-- Fortress = 75% textured (Missing a lot of wall textures mostly on the autobot spawn side)
-- Havoc 95% textured
-- Metropolis = 90% textured, a few missing floor textures
+- Fortress = 98% textured (Missing vent texture on autobot side and screen texture on decepticon side)
+- Havoc = 98% textured (Missing rails and sun texture)
+- Metropolis = 95% textured (Missing one wall and cable textures)
 - Sector = 100% textured
 
 Escalation:
@@ -34,14 +34,14 @@ Our approach of fixing this is abuse how Unreal Engine 3 loads textures, and inj
 Q: Why didn't you use Xbox 360 files?
 > While the package format is the same, the data inside it is modified to work only on Xbox 360 (Not only textures)
 
-Q: Why are there no DLC characters in here?
-> Our focus was to release the MP maps first, then escalation, and when both work, then we will start working on the characters.
+Q: Why are there no DLC characters available in multiplayer?
+> Currently there's a large problem with DLC characters when you join a match in-progress (Same with DLC Maps). 
 
 Q: Why are my textures all black?
 > This issue happens randomly for some people. I haven't been able to pinpoint the cause yet.
 
-Q: I'm getting "Out of Memory" error, how can I fix it?
-> This issue happens mostly on laptops, but also on some PCs as well. We tried to minimalize the amount of packages that are being loaded to prevent this, but that is not an easy task. If you're having trouble with this, please message us at #install-support channel in Re-Energized Discord with your PC specs/Laptop Model, and how to replicate your issue.
+Q: I'm getting "Out of Memory/appDebug" error, how can I fix it?
+> Read the instruction in the release zip on how to use Large Address Aware to fix this problem.
 
 Q: I want to help, how can I do that?
 > Download the INI files available on this github, and start adding packages to the ini! You should always test it with another person, since as much as getting the maps fully textured is easy, getting it textured AND have the ability for someone to join are different things. If you'd like to work on this, you should also be familiar with how UDK and gildor's "umodel" work.
