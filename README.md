@@ -6,6 +6,7 @@ Please be aware that this while this mod works, you can still encounter quite a 
 Install the DLC map files from [here](https://drive.google.com/file/d/1LLXrvFu_xcOJApxmJWvPYoIMhu0_lqla/view?usp=sharing) or [MEGA mirror](https://mega.nz/file/NkdnwB4a#nf5YrudGWXjeboqeKADTmX9Uyj9TLd9E45P3kHmgh5c) to the main root folder of the game (Next to Binaries and TransGame folder)
 
 Video guide on how to install this mod can be found [here](https://www.youtube.com/watch?v=x4htr8eVzZE)
+Be warned, you cannot play with people that do not have this mod. (You will either get a map load error, missing DLC characters or crash)
 
 Currently available maps:
 Multiplayer:
