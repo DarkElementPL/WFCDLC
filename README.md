@@ -1,5 +1,5 @@
 # Transformers War for Cybertron DLC Mod
-This mod will allow you to play DLC maps that have not been released on PC version of the game.
+This mod will allow you to play DLC maps and characters that have not been released on PC version of the game.
 Please be aware that this while this mod works, you can still encounter quite a few untextured models and crashes (mostly in escalation)
 
 
