@@ -14,6 +14,7 @@ Multiplayer:
 - Havoc = 98% textured (Missing rails and sun texture)
 - Metropolis = 95% textured (Missing one wall and cable textures)
 - Sector = 100% textured
+- Horizon = 98% textured (Missing planet texture and energon sign underneath it + underwater shader)
 
 Escalation:
 - Forsaken = The map uses custom terrain texture which is unfixable (This texture covers most of the map)
@@ -21,7 +22,7 @@ Escalation:
 - Static = 90% textured, Missing teleporters texture and a few energon holograms (custom)
 
 
-Horizon & Pulse will come in a future update to the mod.
+Pulse will come in a future update to the mod.
 Be warned: When entering Escalation Lobby, there is a pretty solid chance that you'll crash. Sadly this is normal, just try a few more times.
 
 Enjoy!
