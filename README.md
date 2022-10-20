@@ -36,17 +36,11 @@ Our approach of fixing this is abuse how Unreal Engine 3 loads textures, and inj
 Q: Why didn't you use Xbox 360 files?
 > While the package format is the same, the data inside it is modified to work only on Xbox 360 (Not only textures)
 
-Q: Why are there no DLC characters available in multiplayer?
-> Currently there's a large problem with DLC characters when you join a match in-progress (Same with DLC Maps). 
-
 Q: Why are my textures all black?
 > This issue happens randomly for some people. I haven't been able to pinpoint the cause yet.
-
-Q: I'm getting "Out of Memory/appDebug" error, how can I fix it?
-> Read the instruction in the release zip on how to use Large Address Aware to fix this problem.
 
 Q: I want to help, how can I do that?
 > Download the INI files available on this github, and start adding packages to the ini! You should always test it with another person, since as much as getting the maps fully textured is easy, getting it textured AND have the ability for someone to join are different things. If you'd like to work on this, you should also be familiar with how UDK and gildor's "umodel" work.
 
-Q: Is there an ETA on when you guys will fix other maps/characters?
+Q: Is there an ETA on when you guys will fix other maps?
 > No.
