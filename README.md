@@ -10,8 +10,11 @@ Unfortunately the installer might be flagged by Windows Defender as a virus - yo
 The installer can take a while to start. If you want to install the mod manually, or do not like running an .exe file, [here](https://drive.google.com/file/d/1fpymh_cKjv_bZzWoDo6yYPz5r98yFMVM/view?usp=share_link) is the link for manual installation ZIP.
 
 Known bugs:
+
 Returning to lobby from a match on Remnant will cause the host to crash.
+
 Returning to lobby from a escalation match will cause non-hosts to crash after a few seconds. To mitigate this, re-join the lobby.
+
 Sometimes escalation maps might not load with full textures if non-host, if that's the case, use the preload method that's in the readme.
 Pulse Nuke will deal no damage.
 
