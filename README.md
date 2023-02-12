@@ -16,6 +16,7 @@ Returning to lobby from a match on Remnant will cause the host to crash.
 Returning to lobby from a escalation match will cause non-hosts to crash after a few seconds. To mitigate this, re-join the lobby.
 
 Sometimes escalation maps might not load with full textures if non-host, if that's the case, use the preload method that's in the readme.
+
 Pulse Nuke will deal no damage.
 
 Video guide on how to install this mod can be found [here](New tutorial to be uploaded)
