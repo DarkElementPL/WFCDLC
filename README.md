@@ -11,13 +11,10 @@ The installer can take a while to start. If you want to install the mod manually
 
 Known bugs:
 
-Returning to lobby from a match on Remnant will cause the host to crash.
-
-Returning to lobby from a escalation match will cause non-hosts to crash after a few seconds. To mitigate this, re-join the lobby.
-
-Sometimes escalation maps might not load with full textures if non-host, if that's the case, use the preload method that's in the readme.
-
-Pulse Nuke will deal no damage.
+- Returning to lobby from a match on Remnant will cause the host to crash.
+- Returning to lobby from a escalation match will cause non-hosts to crash after a few seconds. To mitigate this, re-join the lobby.
+- Sometimes escalation maps might not load with full textures if non-host, if that's the case, use the preload method that's in the readme (for dlc maps).
+- Pulse Nuke will deal no damage.
 
 Video guide on how to install this mod can be found [here](New tutorial to be uploaded)
 Be warned, you cannot play with people that do not have this mod. (You will either get a map load error, missing DLC characters or crash)
@@ -33,8 +30,6 @@ Our approach of fixing this is abuse how Unreal Engine 3 loads textures, and inj
 Q: Why didn't you use Xbox 360 files?
 > While the package format is the same, the data inside it is modified to work only on Xbox 360 (Not only textures)
 
-Q: Why are my textures all black?
-> This issue happens randomly for some people. I haven't been able to pinpoint the cause yet.
+Q: How did you fix Pulse?
+> The code for the nuke (TransGame.TnFactionSpecificPainVolume) is incomplete in the PC version of the game. Disabling the call to this function makes the map boot (For obvious reasons also causes the nuke to deal no damage)
 
-Q: I want to help, how can I do that?
-> Download the INI files available on this github, and start adding packages to the ini! You should always test it with another person, since as much as getting the maps fully textured is easy, getting it textured AND have the ability for someone to join are different things. If you'd like to work on this, you should also be familiar with how UDK and gildor's "umodel" work.
