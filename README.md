@@ -3,11 +3,12 @@ This mod will allow you to play DLC maps and characters that have not been relea
 Please be aware that this while this mod works, you can still encounter quite a few untextured models and crashes (mostly in escalation)
 
 
-Install the DLC mod installer from [here](https://drive.google.com/file/d/1g1qXJ80XpF6YpDmhVXeqbolJJIksSb7b/view?usp=share_link) or [MEGA mirror](To be uploaded) to the main root folder of the game (Next to Binaries and TransGame folder)
+Install the DLC mod installer from [here](https://drive.google.com/file/d/1g1qXJ80XpF6YpDmhVXeqbolJJIksSb7b/view?usp=share_link) to the main root folder of the game (Next to Binaries and TransGame folder)
+(The installer is currently down, please use the manual installation)
 
 Unfortunately the installer might be flagged by Windows Defender as a virus - you can check it's source code in this repository until I solve this problem. There is also a manual zip installation available.
 
-The installer can take a while to start. If you want to install the mod manually, or do not like running an .exe file, [here](https://drive.google.com/file/d/1fpymh_cKjv_bZzWoDo6yYPz5r98yFMVM/view?usp=share_link) is the link for manual installation ZIP.
+The installer can take a while to start. If you want to install the mod manually, or do not like running an .exe file, [here](https://drive.google.com/file/d/1zC77wxU-DPqUTTE5cTf-h4nNQiPrUhhq/view) is the link for manual installation ZIP.
 
 Known bugs:
 
