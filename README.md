@@ -9,10 +9,10 @@ Unfortunately the installer might be flagged by Windows Defender as a virus - yo
 
 Known bugs:
 
- • Sometimes you can get stuck in a spectator camera. Rejoin the match to fix this.
- • Returning to lobby from an Escalation match will can cause non-hosts to crash after a few seconds. To mitigate this, re-join. (This might or might not happen)
- • Pulse Nuke will deal no damage.
- • Editing your loadout while in a game lobby can cause crashes.
+- Sometimes you can get stuck in a spectator camera. Rejoin the match to fix this.
+- Returning to lobby from an Escalation match will can cause non-hosts to crash after a few seconds. To mitigate this, re-join. (This might or might not happen)
+- Pulse Nuke will deal no damage.
+- Editing your loadout while in a game lobby can cause crashes.
 
 Be warned, you cannot play with people that do not have this mod. (You will either get a map load error, missing DLC characters or crash)
 
