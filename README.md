@@ -1,23 +1,19 @@
 # Transformers War for Cybertron DLC Mod
 This mod will allow you to play DLC maps and characters that have not been released on PC version of the game.
-Please be aware that this while this mod works, you can still encounter quite a few untextured models and crashes (mostly in escalation)
+Please be aware that this while this mod works, you can still encounter quite a few untextured models and crashes.
 
 
-Install the DLC mod installer from [here](https://drive.google.com/file/d/1g1qXJ80XpF6YpDmhVXeqbolJJIksSb7b/view?usp=share_link) to the main root folder of the game (Next to Binaries and TransGame folder)
-(The installer is currently down, please use the manual installation)
+Install the DLC mod installer from [here](https://drive.google.com/file/d/1TVDQxjdOpIMEF4iTKtwPutREvl15qjch/view?usp=sharing) to the main root folder of the game (Next to Binaries and TransGame folder)
 
-Unfortunately the installer might be flagged by Windows Defender as a virus - you can check it's source code in this repository until I solve this problem. There is also a manual zip installation available.
-
-The installer can take a while to start. If you want to install the mod manually, or do not like running an .exe file, [here](https://drive.google.com/file/d/1zC77wxU-DPqUTTE5cTf-h4nNQiPrUhhq/view) is the link for manual installation ZIP.
+Unfortunately the installer might be flagged by Windows Defender as a virus - you can check it's source code in this repository until I solve this problem.
 
 Known bugs:
 
-- Returning to lobby from a match on Remnant will cause the host to crash.
-- Returning to lobby from a escalation match will cause non-hosts to crash after a few seconds. To mitigate this, re-join the lobby.
-- Sometimes escalation maps might not load with full textures if non-host, if that's the case, use the preload method that's in the readme (for dlc maps).
-- Pulse Nuke will deal no damage.
+ • Sometimes you can get stuck in a spectator camera. Rejoin the match to fix this.
+ • Returning to lobby from an Escalation match will can cause non-hosts to crash after a few seconds. To mitigate this, re-join. (This might or might not happen)
+ • Pulse Nuke will deal no damage.
+ • Editing your loadout while in a game lobby can cause crashes.
 
-Video guide on how to install this mod can be found [here](New tutorial to be uploaded)
 Be warned, you cannot play with people that do not have this mod. (You will either get a map load error, missing DLC characters or crash)
 
 Enjoy!
