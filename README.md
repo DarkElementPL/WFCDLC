@@ -20,7 +20,7 @@ Enjoy!
 
 #  FAQ
 
-Q:How did you got it working? Aren't those files from PS3?
+Q: How did you got it working? Aren't those files from PS3?
 > Yes! PC version of the game is capable of fully reading the PS3 files. However, PS3 uses .tfc files (Texture File Cache). Just copying that file won't make the textures work, since texture data inside the cache is swizzled (an easy word for it would be "mixed") to only work with the PS3 version.
 Our approach of fixing this is abuse how Unreal Engine 3 loads textures, and inject textures from other maps into the DLC ones. A good example would be Forsaken, you miss a lot of terrain textures because they are custom and don't exist in vanilla PC version of the game.
 
