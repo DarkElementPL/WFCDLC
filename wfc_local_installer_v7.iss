@@ -216,7 +216,7 @@ Source: "G:\DLC Release V7\redist\QuickSFV\QSFVShll.dll"; DestDir: "{app}\redist
 Source: "G:\DLC Release V7\redist\QuickSFV\QSFVUNST.EXE"; DestDir: "{app}\redist\QuickSFV"; Flags: ignoreversion
 Source: "G:\DLC Release V7\redist\QuickSFV\quicksfv.exe"; DestDir: "{app}\redist\QuickSFV"; Flags: ignoreversion
 Source: "G:\DLC Release V7\redist\QuickSFV\QuickSFV.ini"; DestDir: "{app}\redist\QuickSFV"; Flags: ignoreversion
-Source: "G:\DLC Release V7\TransGame\Config\PC\Cooked\Coalesced.ini"; DestDir: "{app}\TransGame\Config\PC\Cooked"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\Config\PC\Cooked\Coalesced.ini"; DestDir: "{app}\TransGame\Config\PC\Cooked"; Flags: ignoreversion
 Source: "G:\DLC Release V7\TransGame\CookedPC\BerthLoader.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
 Source: "G:\DLC Release V7\TransGame\CookedPC\ComplexLoader.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
 Source: "G:\DLC Release V7\TransGame\CookedPC\GorgeLoader.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
@@ -258,6 +258,19 @@ Source: "G:\DLC Release V7\TransGame\CookedPC\UI_EscalationLobby_m.xxx"; DestDir
 Source: "G:\DLC Release V7\TransGame\CookedPC\UI_Lobby_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
 Source: "G:\DLC Release V7\TransGame\CookedPC\UI_PartyLobby_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
 Source: "G:\DLC Release V7\TransGame\Localization\Cooked\PC\Coalesced.int"; DestDir: "{app}\TransGame\Localization\Cooked\PC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\A1_IAC_Base_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\A2_KON_BASE_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\A3_COR_Base_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\A4_ORB_Base_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\A5_TRY_Base_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\D1_ORB_Base_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\D2_COR_Base_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\D3A_IAC_Base_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\D3B_IAC_Base_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\D5_OME_Base_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\UI_CampaignLobby_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\UI_CoopLobby_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
+Source: "G:\DLC Release V7 Hotfix\TransGame\CookedPC\UI_FrontEnd_m.xxx"; DestDir: "{app}\TransGame\CookedPC"; Flags: ignoreversion
 
 [Icons]
 Name: "{group}\My Program"; Filename: "{app}\MyProg.exe"
